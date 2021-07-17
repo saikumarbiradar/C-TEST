@@ -8,7 +8,7 @@ void biggest3() {
     if (n1 >= n2 && n1 >= n3)
         printf("%.2f is the largest number.", n1);
 
-    // if n2 is greater than both n1 and n3, n2 is the largest
+    // if n2 is greater than both n1 and n3, n2 is largest
     if (n2 >= n1 && n2 >= n3)
         printf("%.2f is the largest number.", n2);
 
